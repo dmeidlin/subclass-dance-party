@@ -25,3 +25,18 @@ body, a:link, a:visited, a:active{
   border-radius:10px;
   position:absolute;
 }
+.bouncyDancer{
+  border:20px solid green;
+  border-radius:20px;
+  position:absolute;
+}
+.jigglyBigDancer{
+  border:31px solid white;
+  border-radius:31px;
+  position:absolute;
+}
+.jigglySmallDancer{
+  border:28px solid white;
+  border-radius:28px;
+  position:absolute;
+}
